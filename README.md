@@ -13,7 +13,7 @@ Media queries can be used to check many things like the following :
 
 
 
-<pre>
+```CSS
 
   /* Smartphones (portrait and landscape) ----------- */
 @media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -85,6 +85,6 @@ only screen
 and (min-resolution: 192dpi) {
 
 }
-</pre>
+```
 
 
