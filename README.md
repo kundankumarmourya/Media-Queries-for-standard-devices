@@ -87,4 +87,16 @@ and (min-resolution: 192dpi) {
 }
 ```
 
+<p>Here are some common breakpoints, not a standard resolution, that can be used for the different widths & heights of devices:</p>
+
+<ul>
+  <li>For Mobile devices: 320px-480px</li>
+  <li>For Tablets or iPad: 480px - 768px</li>
+  <li>For Laptop or small-size screen: 768px -1024px</li>
+  <li>For Desktop or large-size screen: 1024px -1200px</li>
+<li>For Extra-large size device: 1200px and more</li>
+</ul>
+
+
+
 
